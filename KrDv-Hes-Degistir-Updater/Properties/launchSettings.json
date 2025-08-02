@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "KrDv-Hes-Degistir-Updater": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false,
+      "remoteDebugMachine": "DESKTOP-C6ID9T9",
+      "authenticationMode": "Windows"
+    }
+  }
+}
